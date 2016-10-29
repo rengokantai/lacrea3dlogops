@@ -19,3 +19,11 @@ properties->coordinates->move to ground
 ####00:48
 Printer: MakerBot replicator 2X  
 scale to Print Volume
+
+
+##2. Print a Complex Logo
+###2 Connect the multiple objects
+Select->Modify->Expand  
+
+####00:56 another way to expand edge
+selection tool->refine edge
